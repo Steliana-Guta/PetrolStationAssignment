@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\steli\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\steli\\.nuget\\packages"
+    ]
+  }
+}
